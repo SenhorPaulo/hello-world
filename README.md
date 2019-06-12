@@ -11,4 +11,6 @@ Link para a [folha de macetes](https://github.com/adam-p/markdown-here/wiki/Mark
 [Guia Hello Word](https://guides.github.com/activities/hello-world/)
 
 
+[:snake:](https://gist.github.com/rxaviers/7360908)
+
 
